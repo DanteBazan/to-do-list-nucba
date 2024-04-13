@@ -1,0 +1,29 @@
+ ACA ES DONDE VAMOS A ANOTAR ALGUNAS COSAS DE LA CLASE Y ALGUNAS DUDAS PUNTUALES EN ALGUN CASO PARA PODER PREGUNTARLAS EN LA CLASE, PORQUE SE VIENE LO JODIDO
+
+:: objeto date:
+
+* permite trabajar con fechas y horas.
+* trabaj con fechas en milisegundos.
+* permite realizar operaciones con fechas.
+
+nosotros vamos a usar el metodos date.now()
+
+-- el metodo now() es un metodo que devuelve el numero en milisegundos desde la fecha de referencia que toma el objeto Date(01/01/1970) hasta la fecha actual.
+
+--lo vamos a utilizar en nuestra app para generar un id unico para cada tarea que agreguemos, ya que tenemos la certeza de que el numero no se va a repetir.
+
+
+:: funcion init:
+
+
+--la funcion init es una funcion bastante utilizada en JavaScript que se utiliza como punto de entrada de una aplicacion
+
+-- es la primera funcion que va a ejecutarse cuando cargue nuestra aplicacion.
+
+--se utiliza para iniciar variables, colocar los escuchadores de eventos y ejecutar todas las funciones que se necesite ejecutar ni bien se carga la app.
+
+--vamos a estar usando esta funcion para todas las aplicaciones que hagamos durante el modulo, empezando por la de la clase de hoy.
+
+
+ESTO ES LO NUEVO DE ESTA CLASE QUE HAY QUE PONER EN PRACTICA
+A CODEAR
